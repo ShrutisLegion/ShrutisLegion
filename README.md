@@ -9,7 +9,7 @@
 <!-- <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> &nbsp;You can check my <a href="https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing" rel="nofollow">Resume</a> for more details about work experience.</p> -->
 
 
-<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;"> -->
+  <img align="right" alt="GIF" src="shruti (1).gif" width="500" height="320" style="max-width:100%;">
 
 
 
