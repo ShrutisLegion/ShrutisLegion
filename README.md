@@ -9,6 +9,11 @@
 <g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> &nbsp;You can email me at <a href="mailto:shrutibhateja1803@gmail.com">shrutibhateja1803@gmail.com</a>. I'll try to respond as soon as possible!<br>
 <!-- <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> &nbsp;You can check my <a href="https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing" rel="nofollow">Resume</a> for more details about work experience.</p> -->
 
+<p align="center">
+  <a href="https://shrutislegion.github.io/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=shrutislegion&count_private=true&include_all_commits=true&show_icons=true&bg_color=EFEFEF&border_radius=25&custom_title=My GitHub Stats" />
+  </a>
+</p>
 
   <img align="right" alt="GIF" src="shruti (1).gif" width="500" height="320" style="max-width:100%;">
 
