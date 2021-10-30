@@ -47,7 +47,7 @@
     <br>
     <br>
     <br>
-🤝🏻 &nbsp;Connect with Me
+&nbsp;<h3>🤝🏻 Connect with Me</h3>
 
 <p align="center">
 	<a href="mailto:shrutibhateja1803@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
