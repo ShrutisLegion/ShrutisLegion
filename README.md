@@ -8,13 +8,7 @@
 <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> &nbsp;In my free time, I pursue blog writing as my hobbies. You can check out my blogs on <a href="https://intellectaddict.com/">Intellect Addict</a>.<br>
 <g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> &nbsp;You can email me at <a href="mailto:shrutibhateja1803@gmail.com">shrutibhateja1803@gmail.com</a>. I'll try to respond as soon as possible!<br>
 <!-- <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> &nbsp;You can check my <a href="https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing" rel="nofollow">Resume</a> for more details about work experience.</p> -->
-
-<p align="center">
-  <a href="https://shrutislegion.github.io/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=shrutislegion&count_private=true&include_all_commits=true&show_icons=true&bg_color=EFEFEF&border_radius=25&custom_title=My GitHub Stats" />
-  </a>
-</p>
-
+<br>
   <img align="right" alt="GIF" src="shruti (1).gif" width="500" height="320" style="max-width:100%;">
 
 
@@ -37,16 +31,21 @@
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f9d027c4862cdd2e61aacf3e903565bc5b0b268e42874853c93c09a0e80a59be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732532302d2532333135303435382e7376673f267374796c653d666c6174266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/f9d027c4862cdd2e61aacf3e903565bc5b0b268e42874853c93c09a0e80a59be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732532302d2532333135303435382e7376673f267374796c653d666c6174266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" alt="Pandas" data-canonical-src="https://img.shields.io/badge/pandas%20-%23150458.svg?&amp;style=flat&amp;logo=pandas&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bcaac4e308c087c17d4328b22fe28492a5776161ea841511894b212f39948f3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4d482532302d2532333135303435382e7376673f267374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/bcaac4e308c087c17d4328b22fe28492a5776161ea841511894b212f39948f3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4d482532302d2532333135303435382e7376673f267374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" alt="JMH" data-canonical-src="https://img.shields.io/badge/JMH%20-%23150458.svg?&amp;style=flat&amp;logo=Java&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;</p> -->
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec78b620dfa3bdc2f509608c20d9d64c3aa83a1dddf484365bdb5c5c8f94378c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d3030393739443f7374796c653d666c61742d737175617265266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ec78b620dfa3bdc2f509608c20d9d64c3aa83a1dddf484365bdb5c5c8f94378c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d3030393739443f7374796c653d666c61742d737175617265266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465" alt="Arduino" data-canonical-src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=Arduino&amp;logoColor=white" style="max-width:100%;"></a><br><br>
-  
-  <br>
-<br>
-<br>
+
  <br>
   
    <br>
     <br>
     <br>
     <br>
+	&nbsp;
+	<h3>⚙️ GitHub Analytics</h3>
+<p align="center">
+  <a href="https://github.com/shrutislegion/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=shrutislegion&count_private=true&include_all_commits=true&show_icons=true&bg_color=EFEFEF&border_radius=25&custom_title=My GitHub Stats" />
+<!-- 	  <img padding-left="20em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutislegion"/> -->
+  </a>
+</p>
 &nbsp;<h3>🤝🏻 Connect with Me</h3>
 
 <p align="center">
