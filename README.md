@@ -1,13 +1,19 @@
 <h1>Shruti Bhateja</h1>
 <h5>Changing the world, One commit at a time.</h5>
+<h3>Hello World!👋</h3>
+<p>💡 &nbsp; I'm a passionate software engineer who loves exploring technology and building reliable systems. I'm a curious soul, a tech enthusiast, an astrophile, a book lover, and an empathetic listener.<br>
 
-### <h3>Hello World!👋</h3>
-<p><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji> &nbsp; I'm a passionate individual who loves to explore new technology. I'm a curious soul, a tech enthusiast, an astrophile, a book lover, and an empathetic listener.<br>
-<g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> &nbsp;I'm currently in my second year of Bechelor's in Technology focussed in COMPUTER SCIENCE AND ENGINEERING at <a href="http://www.mnnit.ac.in/">Motilal Nehru National Institute of Technology Allahabad, Prayagraj</a>.<br>
-<g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence and Android Development.<br>
-<g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> &nbsp;In my free time, I pursue blog writing as my hobbies. You can check out my blogs on <a href="https://intellectaddict.com/">Intellect Addict</a>.<br>
-<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> &nbsp;You can email me at <a href="mailto:shrutibhateja1803@gmail.com">shrutibhateja1803@gmail.com</a>. I'll try to respond as soon as possible!<br>
-<!-- <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> &nbsp;You can check my <a href="https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing" rel="nofollow">Resume</a> for more details about work experience.</p> -->
+💼 &nbsp;Currently working as a <b>Software Engineer at Wells Fargo</b>, contributing to enterprise applications in Payments, Treasury Management, and Consumer Technologies.<br>
+
+<g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> &nbsp; Pursued Bechelor's in Technology focussed in COMPUTER SCIENCE AND ENGINEERING at <a href="http://www.mnnit.ac.in/">Motilal Nehru National Institute of Technology Allahabad, Prayagraj</a>.<br>
+
+🛠 &nbsp;I have experience working with <b>Java, Spring Boot, React, Node.js, REST APIs, and modern build tools</b>, and enjoy improving backend scalability, clean architecture, and user-friendly interfaces.<br>
+
+🌱 &nbsp;Currently focusing on strengthening system design, backend engineering practices, and full-stack development skills.<br>
+
+✍️ &nbsp;In my free time, I pursue blog writing as a hobby. You can check out my blogs on <a href="https://intellectaddict.com/">Intellect Addict</a>.<br>
+
+✉️ &nbsp;You can email me at <a href="mailto:shrutibhateja1803@gmail.com">shrutibhateja1803@gmail.com</a>. I'll try to respond as soon as possible!
 <br>
   <img align="right" alt="GIF" src="shruti (1).gif" width="500" height="320" style="max-width:100%;">
 
